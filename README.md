@@ -1,6 +1,6 @@
 # Instructions to Run the Code
 
-## 1. Ae. albopictus Population Dynamics
+## 1. *Ae. albopictus* Population Dynamics
 
 **Main code file:** albopictus_fano.ipynb  
 **Supporting function file:** AlbopictusFun.jl  
