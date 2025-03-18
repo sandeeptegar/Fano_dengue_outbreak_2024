@@ -47,7 +47,7 @@ This script calculates the climate average for the period 2019–2023 on the sel
 
 ## 4. How to Reproduce Climate Scenarios
 
-### Scenario A:  
+### Scenario A (baseline):  
 - Use the original climate file: `latitude_longitude.csv`  
 - Run the Dengue Outbreak code  
 
