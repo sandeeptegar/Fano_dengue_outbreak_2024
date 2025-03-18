@@ -27,7 +27,8 @@ This script identifies the probable seeding dates and reproduces the dengue outb
 - Data files: `AMgam.csv`, `Car_Tol_1.csv`, `Fin_LSurv.csv`, `LDgam.csv`, `WL_re.csv`  
 - Climate file: `latitude_longitude.csv`  
   (For Fano: latitude = 43.82, longitude = 13.026)  
-- Reported cases: `fano_data.csv`  
+- Reported cases: `fano_data.csv`
+- Source: [Sacco et al. (2024)](https://doi.org/10.2807/1560-7917.ES.2024.29.47.2400713)  
 
 ---
 
